@@ -56,10 +56,7 @@ security-related updates.
 
 ## How to report
 
-Submit one vulnerability per report unless you need to chain vulnerabilities to achieve impact.
-
-Please provide a detailed vulnerability report with step-by-step instructions to reproduce the issue. Only vulnerabilities that we
-can reproduce are eligible for a reward.
+sorry test
 
 ## Review
 
